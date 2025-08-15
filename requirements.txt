@@ -1,0 +1,7 @@
+# For connecting to PostgreSQL
+psycopg2-binary
+
+# For data analysis and plotting
+pandas
+matplotlib
+seaborn
